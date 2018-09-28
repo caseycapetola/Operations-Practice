@@ -16,6 +16,7 @@ public class OperationsTest
 		System.out.println(number);
 		number %= 2;
 		System.out.println(number);
+		System.out.println("made changes");
 
 	}
 
